@@ -25,7 +25,7 @@ All while showing you which agent is working in real-time.
 
 Here's how everything fits together:
 
-![System Architecture](docs/multi-agent-system-diagram.png)
+![System Architecture](docs/images/multi-agent-system-diagram.png)
 
 The frontend sends queries to the API, which kicks off the agent pipeline. Each agent does its job and passes results to the next one. The whole time, events stream back to the UI so you can watch the progress live.
 

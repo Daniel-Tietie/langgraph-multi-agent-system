@@ -1,6 +1,6 @@
 # LangGraph Multi-Agent System
 
-Building a multi-agent system where AI agents work together to analyze data and answer questions. Think of it like having a team of specialized assistants - one breaks down your question, another queries the database, another does the math, and so on.
+Building a multi-agent system where AI agents work together to analyze data and answer data related questions. It's like having a team of specialized assistants where one breaks down your question, another queries the database, another does the math, and so on.
 
 ## Status
 
@@ -192,7 +192,7 @@ System configuration is managed in `backend/config/config.yaml`:
 
 ## Why I Built This
 
-Wanted to learn how to build production-level AI systems, not just toy demos. This project covers:
+Wanted to learn how to build production-level AI systems, not just demos. This project covers:
 
 - **Multi-agent coordination** - Getting AI agents to work together effectively
 - **Real-time systems** - WebSocket communication and live updates
@@ -231,10 +231,10 @@ MIT License - See LICENSE file for details
 
 ## Author
 
-[Your Name]  
-Final-year CS student building production AI systems
+Daniel Tietie  
 
-[LinkedIn](#) | [Portfolio](#) | [Email](mailto:your-email@example.com)
+
+[LinkedIn](http://linkedin.com/in/daniel-tietie-4b0235228) | [Portfolio](https://github.com/Daniel-Tietie) | [Email](tietiedaniel864@gmail.com)
 
 ---
 
